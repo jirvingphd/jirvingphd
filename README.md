@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm James Irving, Ph.D.
 
+<img src="./images/LinkedIn Banner.png">
 
 ## 🔬 About Me
 I am a Data Scientist with a Ph.D. in Neuroscience, specializing in advanced machine learning, deep learning, natural language processing (NLP), and AI techniques. I have a strong background in curriculum development, teaching, and research, with a proven track record of enhancing team productivity and driving impactful data-driven decisions.
