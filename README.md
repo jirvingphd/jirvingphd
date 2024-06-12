@@ -1,13 +1,14 @@
-# Hi there, I'm James Irving, Ph.D. 👋
+# 👋 Hi there, I'm James Irving, Ph.D.
+
 
 ## 🔬 About Me
 I am a Data Scientist with a Ph.D. in Neuroscience, specializing in advanced machine learning, deep learning, natural language processing (NLP), and AI techniques. I have a strong background in curriculum development, teaching, and research, with a proven track record of enhancing team productivity and driving impactful data-driven decisions.
 
 ## 🚀 What I Do
 - Develop and implement machine learning models and algorithms
-- Create and deliver data science and AI curricula
-- Conduct advanced research in neuroscience and data science
+- Create and deliver data science curricula
 - Mentor and guide aspiring data scientists
+- Apply AI and LLM techniques to solve complex problems and innovate solutions
 
 ## 🌟 Recent Projects
 - **[AI Job Application Assistant](https://github.com/jirvingphd/job-hunting-with-ai)**: A tool integrating ChatGPT to provide resume and cover letter improvements.
@@ -29,7 +30,7 @@ I am a Data Scientist with a Ph.D. in Neuroscience, specializing in advanced mac
 
 ## 🌐 Find Me
 - LinkedIn: [James Irving, Ph.D.](https://www.linkedin.com/in/james-irving-phd)
-- Portfolio: [My Portfolio](link-to-your-portfolio)
+- Email: [james.irving.phd@gmail.com](mailto:james.irving.phd@gmail.com)
 
 ## 💬 Let's Connect
 Feel free to reach out for collaborations, project discussions, or just a friendly chat about data science and AI!
