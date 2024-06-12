@@ -31,6 +31,11 @@ I am a Data Scientist with a Ph.D. in Neuroscience, specializing in advanced mac
 ## 🌐 Find Me
 - LinkedIn: [James Irving, Ph.D.](https://www.linkedin.com/in/james-irving-phd)
 - Email: [james.irving.phd@gmail.com](mailto:james.irving.phd@gmail.com)
+  
+## 📄 My Resumes and CV
+- [Resume for Data Scientist roles (PDF)](https://bit.ly/3zaF43q)
+- [Resume for AI Engineer roles (PDF)](https://bit.ly/3RlGsa0)
+- [Curriculum Vitae (PDF)](https://bit.ly/4b3BzJz)
 
 ## 💬 Let's Connect
 Feel free to reach out for collaborations, project discussions, or just a friendly chat about data science and AI!
